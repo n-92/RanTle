@@ -1,4 +1,6 @@
-![alt text](https://github.com/o92/RanTle/blob/master/images/logo.png "RanTle")
+<p align="center">
+  <img src="https://github.com/o92/RanTle/blob/master/images/logo.png" alt="RanTle"/>
+</p>
 
 # RanTle
 Change your active tab title to random string. Changes favicon icon to outlook.ico if it can find 'shortcut icon' tag.
