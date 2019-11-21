@@ -1,0 +1,19 @@
+{
+  "name": "RanTle!",
+  "version": "1.0.0",
+  "description": "Change your active tab title to random string. Changes favicon icon to outlook.ico if it can find 'shortcut icon' tag.",
+  "permissions": [ "activeTab"],
+  "options_page": "options.html",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+
+  "icons": {
+    "128": "images/logo.png"
+  },
+  "browser_action": {
+    "default_icon": "images/logo.png"
+  },
+  "manifest_version": 2
+}
