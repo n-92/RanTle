@@ -1,9 +1,10 @@
 <p align="center">
   <img src="https://github.com/o92/RanTle/blob/master/images/logo.png" alt="RanTle"/>
+  <h1>RanTle</h1>
+  <h2>Change your active tab title to random string. Changes favicon icon to outlook.ico if it can find 'shortcut icon' tag.</h2>
 </p>
 
-# RanTle
-Change your active tab title to random string. Changes favicon icon to outlook.ico if it can find 'shortcut icon' tag.
+
 
 # How to use
 1. Download or clone the repo and extract the files as necessary.
